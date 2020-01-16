@@ -1,0 +1,20 @@
+.got {
+    border: solid 1px black;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font: normal 13px Arial, sans-serif;
+}
+.got thead th {
+    background-color: #417a82;
+    border: solid 1px black;
+    color: white;
+    padding: 10px;
+    text-align: left;
+
+}
+.got tbody td {
+    border: solid 1px black;
+    color: #333;
+    padding: 10px;
+    ;
+}
